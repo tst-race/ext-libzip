@@ -37,4 +37,4 @@ libzip is built for the following platforms:
 
 ## How It Is Used
 
-libzip is used by slothy.
+libzip is used directly by the RACE core and slothy.
